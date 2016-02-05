@@ -1,0 +1,28 @@
+name: davidsbill
+favicon: null
+layout_spectrum: 0.7890153871849179
+typography_spectrum: 0.5932249485049397
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.054909528233110905
+  lightness: 0.37363313883543015
+  saturation: 0.2961663259193301
+  rhythmicContrast: 0.7963318317197263
+purpose: []
